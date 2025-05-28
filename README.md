@@ -1565,7 +1565,7 @@ AWS deployment tool.<br>
 | **`FoxyProxy`** | Simplifies configuring browsers to access proxy-servers. |
 | **`HTTPS Everywhere`** | Automatically use HTTPS security on many sites. |
 | **`uMatrix`** | Point & click to forbid/allow any class of requests made by your browser. |
-| **`uBlock Origin`** | An efficient blocker: easy on memory and CPU footprint. |
+| **`uBlock Origin Lite`** | An efficient blocker: easy on memory and CPU footprint. |
 | **`Session Buddy`** | Manage browser tabs and bookmarks with ease. |
 | **`SuperSorter`** | Sort bookmarks recursively, delete duplicates, merge folders, and more. |
 | **`Clear Cache`** | Clear your cache and browsing data. |
